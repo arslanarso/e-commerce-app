@@ -52,7 +52,7 @@ The NTT DATA - Basic E-Commerce App is a simple yet powerful mobile application 
 
 <div align="center">
   <img src="screenshots/5.png" alt="HOMEPAGE" width="300" height="auto"/>
-  <img src="screenshots/6.png" alt="HOMEPAGEMAP" width="300" height="auto"/>
+  <img src="screenshots/6.png" alt="HOMEPAGEMAPP" width="300" height="auto"/>
 </div>
 
 <div align="center">
